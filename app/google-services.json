@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "934140317402",
+    "project_id": "footballdrafter-3a349",
+    "storage_bucket": "footballdrafter-3a349.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934140317402:android:821969db5fb9eed96b1fe3",
+        "android_client_info": {
+          "package_name": "com.example.footballdrafts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934140317402-62lhcbvdim2o1if0vikeitv4af3oa391.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.footballdrafts",
+            "certificate_hash": "419ce304de82818eae7755aa904966f616135dce"
+          }
+        },
+        {
+          "client_id": "934140317402-9celeblt338ecpjp2047jrha5gumia5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUvYQOoFlfG38R8JatDkJF4Nhh5J82E84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934140317402-9celeblt338ecpjp2047jrha5gumia5e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
